@@ -1,0 +1,437 @@
+2023-06-28 12:51:40,464 +0530 [main] INFO  (LoginPageSteps.java:40) - ####### Launching Browser #########
+2023-06-28 12:51:45,166 +0530 [main] INFO  (LoginPageSteps.java:70) - ####### Opening URL #########
+2023-06-28 12:51:48,838 +0530 [main] INFO  (LoginPageSteps.java:79) - ####### Entering eamil and password #########
+2023-06-28 12:51:49,233 +0530 [main] INFO  (LoginPageSteps.java:90) - ####### Clicking on login button #########
+2023-06-28 12:52:00,109 +0530 [main] INFO  (LoginPageSteps.java:133) - ####### view dashboard #########
+2023-06-28 12:52:00,138 +0530 [main] INFO  (LoginPageSteps.java:141) - ####### Clicking on customer menu #########
+2023-06-28 12:52:10,290 +0530 [main] INFO  (LoginPageSteps.java:148) - ####### clicking on cucstomer menu item #########
+2023-06-28 12:52:14,455 +0530 [main] INFO  (LoginPageSteps.java:155) - ####### Clicking on add new btn #########
+2023-06-28 12:52:20,171 +0530 [main] INFO  (LoginPageSteps.java:162) - ####### view add new customer page #########
+2023-06-28 12:52:25,198 +0530 [main] INFO  (LoginPageSteps.java:168) - ####### entering information  #########
+2023-06-28 12:52:26,763 +0530 [main] INFO  (LoginPageSteps.java:189) - ####### Clicking on save #########
+2023-06-28 12:52:30,401 +0530 [main] INFO  (LoginPageSteps.java:196) - ####### message will display - #########
+2023-06-28 12:52:30,749 +0530 [main] INFO  (LoginPageSteps.java:198) - ####### - The new customer has been added successfully #########
+2023-06-28 12:52:30,749 +0530 [main] INFO  (LoginPageSteps.java:119) - ####### CLosing browser #########
+2023-06-28 12:52:30,907 +0530 [main] INFO  (LoginPageSteps.java:40) - ####### Launching Browser #########
+2023-06-28 12:52:33,239 +0530 [main] INFO  (LoginPageSteps.java:70) - ####### Opening URL #########
+2023-06-28 12:52:34,734 +0530 [main] INFO  (LoginPageSteps.java:79) - ####### Entering eamil and password #########
+2023-06-28 12:52:35,170 +0530 [main] INFO  (LoginPageSteps.java:90) - ####### Clicking on login button #########
+2023-06-28 12:52:44,243 +0530 [main] INFO  (LoginPageSteps.java:133) - ####### view dashboard #########
+2023-06-28 12:52:44,286 +0530 [main] INFO  (LoginPageSteps.java:141) - ####### Clicking on customer menu #########
+2023-06-28 12:52:54,502 +0530 [main] INFO  (LoginPageSteps.java:148) - ####### clicking on cucstomer menu item #########
+2023-06-28 12:53:05,349 +0530 [main] INFO  (LoginPageSteps.java:119) - ####### CLosing browser #########
+2023-06-28 12:53:05,698 +0530 [main] INFO  (LoginPageSteps.java:40) - ####### Launching Browser #########
+2023-06-28 12:53:07,619 +0530 [main] INFO  (LoginPageSteps.java:70) - ####### Opening URL #########
+2023-06-28 12:53:10,156 +0530 [main] INFO  (LoginPageSteps.java:79) - ####### Entering eamil and password #########
+2023-06-28 12:53:10,513 +0530 [main] INFO  (LoginPageSteps.java:90) - ####### Clicking on login button #########
+2023-06-28 12:53:17,275 +0530 [main] INFO  (LoginPageSteps.java:133) - ####### view dashboard #########
+2023-06-28 12:53:17,303 +0530 [main] INFO  (LoginPageSteps.java:141) - ####### Clicking on customer menu #########
+2023-06-28 12:53:27,465 +0530 [main] INFO  (LoginPageSteps.java:148) - ####### clicking on cucstomer menu item #########
+2023-06-28 12:53:39,556 +0530 [main] INFO  (LoginPageSteps.java:119) - ####### CLosing browser #########
+2023-06-28 12:53:39,743 +0530 [main] INFO  (LoginPageSteps.java:40) - ####### Launching Browser #########
+2023-06-28 12:53:41,879 +0530 [main] INFO  (LoginPageSteps.java:70) - ####### Opening URL #########
+2023-06-28 12:53:45,589 +0530 [main] INFO  (LoginPageSteps.java:79) - ####### Entering eamil and password #########
+2023-06-28 12:53:45,994 +0530 [main] INFO  (LoginPageSteps.java:90) - ####### Clicking on login button #########
+2023-06-28 12:53:55,769 +0530 [main] INFO  (LoginPageSteps.java:99) - ####### title should be #########
+2023-06-28 12:53:55,781 +0530 [main] INFO  (LoginPageSteps.java:108) - ####### clicking on logout btn #########
+2023-06-28 12:53:58,473 +0530 [main] INFO  (LoginPageSteps.java:99) - ####### title should be #########
+2023-06-28 12:53:58,574 +0530 [main] INFO  (LoginPageSteps.java:119) - ####### CLosing browser #########
+2023-06-28 12:53:58,730 +0530 [main] INFO  (LoginPageSteps.java:40) - ####### Launching Browser #########
+2023-06-28 12:54:01,151 +0530 [main] INFO  (LoginPageSteps.java:70) - ####### Opening URL #########
+2023-06-28 12:54:05,033 +0530 [main] INFO  (LoginPageSteps.java:79) - ####### Entering eamil and password #########
+2023-06-28 12:54:06,799 +0530 [main] INFO  (LoginPageSteps.java:90) - ####### Clicking on login button #########
+2023-06-28 12:54:14,730 +0530 [main] INFO  (LoginPageSteps.java:99) - ####### title should be #########
+2023-06-28 12:54:14,746 +0530 [main] INFO  (LoginPageSteps.java:108) - ####### clicking on logout btn #########
+2023-06-28 12:54:18,616 +0530 [main] INFO  (LoginPageSteps.java:99) - ####### title should be #########
+2023-06-28 12:54:18,635 +0530 [main] INFO  (LoginPageSteps.java:119) - ####### CLosing browser #########
+2023-06-28 12:54:18,770 +0530 [main] INFO  (LoginPageSteps.java:40) - ####### Launching Browser #########
+2023-06-28 12:54:20,983 +0530 [main] INFO  (LoginPageSteps.java:70) - ####### Opening URL #########
+2023-06-28 12:54:23,937 +0530 [main] INFO  (LoginPageSteps.java:79) - ####### Entering eamil and password #########
+2023-06-28 12:54:24,374 +0530 [main] INFO  (LoginPageSteps.java:90) - ####### Clicking on login button #########
+2023-06-28 12:54:26,013 +0530 [main] INFO  (LoginPageSteps.java:99) - ####### title should be #########
+2023-06-28 12:55:28,335 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-06-28 12:56:18,433 +0530 [main] INFO  (LoginPageSteps.java:75) - ####### Opening URL #########
+2023-06-28 12:56:21,983 +0530 [main] INFO  (LoginPageSteps.java:84) - ####### Entering eamil and password #########
+2023-06-28 12:56:22,433 +0530 [main] INFO  (LoginPageSteps.java:95) - ####### Clicking on login button #########
+2023-06-28 12:56:40,995 +0530 [main] INFO  (LoginPageSteps.java:138) - ####### view dashboard #########
+2023-06-28 12:56:41,113 +0530 [main] INFO  (LoginPageSteps.java:146) - ####### Clicking on customer menu #########
+2023-06-28 12:56:51,373 +0530 [main] INFO  (LoginPageSteps.java:153) - ####### clicking on cucstomer menu item #########
+2023-06-28 12:56:55,779 +0530 [main] INFO  (LoginPageSteps.java:160) - ####### Clicking on add new btn #########
+2023-06-28 12:56:59,332 +0530 [main] INFO  (LoginPageSteps.java:167) - ####### view add new customer page #########
+2023-06-28 12:57:04,369 +0530 [main] INFO  (LoginPageSteps.java:173) - ####### entering information  #########
+2023-06-28 12:57:06,382 +0530 [main] INFO  (LoginPageSteps.java:194) - ####### Clicking on save #########
+2023-06-28 12:57:11,271 +0530 [main] INFO  (LoginPageSteps.java:201) - ####### message will display - #########
+2023-06-28 12:57:11,439 +0530 [main] INFO  (LoginPageSteps.java:203) - ####### - The new customer has been added successfully #########
+2023-06-28 12:57:11,442 +0530 [main] INFO  (LoginPageSteps.java:124) - ####### CLosing browser #########
+2023-06-28 12:57:11,714 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-06-28 12:57:15,609 +0530 [main] INFO  (LoginPageSteps.java:75) - ####### Opening URL #########
+2023-06-28 12:57:19,109 +0530 [main] INFO  (LoginPageSteps.java:84) - ####### Entering eamil and password #########
+2023-06-28 12:57:19,601 +0530 [main] INFO  (LoginPageSteps.java:95) - ####### Clicking on login button #########
+2023-06-28 12:57:25,598 +0530 [main] INFO  (LoginPageSteps.java:138) - ####### view dashboard #########
+2023-06-28 12:57:25,624 +0530 [main] INFO  (LoginPageSteps.java:146) - ####### Clicking on customer menu #########
+2023-06-28 12:57:35,788 +0530 [main] INFO  (LoginPageSteps.java:153) - ####### clicking on cucstomer menu item #########
+2023-06-28 12:57:47,919 +0530 [main] INFO  (LoginPageSteps.java:124) - ####### CLosing browser #########
+2023-06-28 12:57:48,161 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-06-28 12:57:51,745 +0530 [main] INFO  (LoginPageSteps.java:75) - ####### Opening URL #########
+2023-06-28 12:57:56,685 +0530 [main] INFO  (LoginPageSteps.java:84) - ####### Entering eamil and password #########
+2023-06-28 12:57:57,302 +0530 [main] INFO  (LoginPageSteps.java:95) - ####### Clicking on login button #########
+2023-06-28 12:58:06,746 +0530 [main] INFO  (LoginPageSteps.java:138) - ####### view dashboard #########
+2023-06-28 12:58:06,764 +0530 [main] INFO  (LoginPageSteps.java:146) - ####### Clicking on customer menu #########
+2023-06-28 12:58:17,029 +0530 [main] INFO  (LoginPageSteps.java:153) - ####### clicking on cucstomer menu item #########
+2023-06-28 12:58:31,491 +0530 [main] INFO  (LoginPageSteps.java:124) - ####### CLosing browser #########
+2023-06-28 12:58:31,708 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-06-28 12:58:41,211 +0530 [main] INFO  (LoginPageSteps.java:75) - ####### Opening URL #########
+2023-06-28 12:58:46,582 +0530 [main] INFO  (LoginPageSteps.java:84) - ####### Entering eamil and password #########
+2023-06-28 12:58:47,052 +0530 [main] INFO  (LoginPageSteps.java:95) - ####### Clicking on login button #########
+2023-06-28 12:59:02,884 +0530 [main] INFO  (LoginPageSteps.java:104) - ####### title should be #########
+2023-06-28 12:59:02,951 +0530 [main] INFO  (LoginPageSteps.java:113) - ####### clicking on logout btn #########
+2023-06-28 12:59:05,087 +0530 [main] INFO  (LoginPageSteps.java:104) - ####### title should be #########
+2023-06-28 12:59:05,098 +0530 [main] INFO  (LoginPageSteps.java:124) - ####### CLosing browser #########
+2023-06-28 12:59:05,516 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-06-28 12:59:13,358 +0530 [main] INFO  (LoginPageSteps.java:75) - ####### Opening URL #########
+2023-06-28 12:59:23,638 +0530 [main] INFO  (LoginPageSteps.java:84) - ####### Entering eamil and password #########
+2023-06-28 12:59:24,207 +0530 [main] INFO  (LoginPageSteps.java:95) - ####### Clicking on login button #########
+2023-06-28 12:59:43,667 +0530 [main] INFO  (LoginPageSteps.java:104) - ####### title should be #########
+2023-06-28 12:59:43,676 +0530 [main] INFO  (LoginPageSteps.java:113) - ####### clicking on logout btn #########
+2023-06-28 12:59:46,827 +0530 [main] INFO  (LoginPageSteps.java:104) - ####### title should be #########
+2023-06-28 12:59:46,836 +0530 [main] INFO  (LoginPageSteps.java:124) - ####### CLosing browser #########
+2023-06-28 12:59:47,067 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-06-28 12:59:52,762 +0530 [main] INFO  (LoginPageSteps.java:75) - ####### Opening URL #########
+2023-06-28 12:59:58,409 +0530 [main] INFO  (LoginPageSteps.java:84) - ####### Entering eamil and password #########
+2023-06-28 12:59:58,851 +0530 [main] INFO  (LoginPageSteps.java:95) - ####### Clicking on login button #########
+2023-06-28 13:00:00,424 +0530 [main] INFO  (LoginPageSteps.java:104) - ####### title should be #########
+2023-06-28 13:03:54,071 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-06-28 13:03:59,670 +0530 [main] INFO  (LoginPageSteps.java:75) - ####### Opening URL #########
+2023-06-28 13:04:02,893 +0530 [main] INFO  (LoginPageSteps.java:84) - ####### Entering eamil and password #########
+2023-06-28 13:04:03,864 +0530 [main] INFO  (LoginPageSteps.java:95) - ####### Clicking on login button #########
+2023-06-28 13:04:10,503 +0530 [main] INFO  (LoginPageSteps.java:138) - ####### view dashboard #########
+2023-06-28 13:04:10,523 +0530 [main] INFO  (LoginPageSteps.java:146) - ####### Clicking on customer menu #########
+2023-06-28 13:04:20,809 +0530 [main] INFO  (LoginPageSteps.java:153) - ####### clicking on cucstomer menu item #########
+2023-06-28 13:04:26,460 +0530 [main] INFO  (LoginPageSteps.java:160) - ####### Clicking on add new btn #########
+2023-06-28 13:04:31,800 +0530 [main] INFO  (LoginPageSteps.java:167) - ####### view add new customer page #########
+2023-06-28 13:04:36,862 +0530 [main] INFO  (LoginPageSteps.java:173) - ####### entering information  #########
+2023-06-28 13:04:38,507 +0530 [main] INFO  (LoginPageSteps.java:194) - ####### Clicking on save #########
+2023-06-28 13:04:42,918 +0530 [main] INFO  (LoginPageSteps.java:201) - ####### message will display - #########
+2023-06-28 13:04:43,309 +0530 [main] INFO  (LoginPageSteps.java:203) - ####### - The new customer has been added successfully #########
+2023-06-28 13:04:43,310 +0530 [main] INFO  (LoginPageSteps.java:124) - ####### CLosing browser #########
+2023-06-28 13:04:43,502 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-06-28 13:04:48,083 +0530 [main] INFO  (LoginPageSteps.java:75) - ####### Opening URL #########
+2023-06-28 13:04:51,175 +0530 [main] INFO  (LoginPageSteps.java:84) - ####### Entering eamil and password #########
+2023-06-28 13:04:51,556 +0530 [main] INFO  (LoginPageSteps.java:95) - ####### Clicking on login button #########
+2023-06-28 13:04:59,998 +0530 [main] INFO  (LoginPageSteps.java:104) - ####### title should be #########
+2023-06-28 13:05:00,101 +0530 [main] INFO  (LoginPageSteps.java:113) - ####### clicking on logout btn #########
+2023-06-28 13:05:01,970 +0530 [main] INFO  (LoginPageSteps.java:104) - ####### title should be #########
+2023-06-28 13:05:01,984 +0530 [main] INFO  (LoginPageSteps.java:124) - ####### CLosing browser #########
+2023-06-28 13:05:30,304 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-06-28 13:05:35,525 +0530 [main] INFO  (LoginPageSteps.java:75) - ####### Opening URL #########
+2023-06-28 13:05:38,853 +0530 [main] INFO  (LoginPageSteps.java:84) - ####### Entering eamil and password #########
+2023-06-28 13:05:39,582 +0530 [main] INFO  (LoginPageSteps.java:95) - ####### Clicking on login button #########
+2023-06-28 13:05:45,449 +0530 [main] INFO  (LoginPageSteps.java:138) - ####### view dashboard #########
+2023-06-28 13:05:45,472 +0530 [main] INFO  (LoginPageSteps.java:146) - ####### Clicking on customer menu #########
+2023-06-28 13:05:55,695 +0530 [main] INFO  (LoginPageSteps.java:153) - ####### clicking on cucstomer menu item #########
+2023-06-28 13:06:06,512 +0530 [main] INFO  (LoginPageSteps.java:124) - ####### CLosing browser #########
+2023-06-28 13:06:06,670 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-06-28 13:06:10,793 +0530 [main] INFO  (LoginPageSteps.java:75) - ####### Opening URL #########
+2023-06-28 13:06:15,831 +0530 [main] INFO  (LoginPageSteps.java:84) - ####### Entering eamil and password #########
+2023-06-28 13:06:16,218 +0530 [main] INFO  (LoginPageSteps.java:95) - ####### Clicking on login button #########
+2023-06-28 13:06:24,532 +0530 [main] INFO  (LoginPageSteps.java:138) - ####### view dashboard #########
+2023-06-28 13:06:24,552 +0530 [main] INFO  (LoginPageSteps.java:146) - ####### Clicking on customer menu #########
+2023-06-28 13:06:34,887 +0530 [main] INFO  (LoginPageSteps.java:153) - ####### clicking on cucstomer menu item #########
+2023-06-28 13:06:45,666 +0530 [main] INFO  (LoginPageSteps.java:124) - ####### CLosing browser #########
+2023-06-28 13:06:46,065 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-06-28 13:06:50,642 +0530 [main] INFO  (LoginPageSteps.java:75) - ####### Opening URL #########
+2023-06-28 13:06:55,299 +0530 [main] INFO  (LoginPageSteps.java:84) - ####### Entering eamil and password #########
+2023-06-28 13:06:55,768 +0530 [main] INFO  (LoginPageSteps.java:95) - ####### Clicking on login button #########
+2023-06-28 13:07:06,668 +0530 [main] INFO  (LoginPageSteps.java:104) - ####### title should be #########
+2023-06-28 13:07:06,686 +0530 [main] INFO  (LoginPageSteps.java:113) - ####### clicking on logout btn #########
+2023-06-28 13:07:08,663 +0530 [main] INFO  (LoginPageSteps.java:104) - ####### title should be #########
+2023-06-28 13:07:08,669 +0530 [main] INFO  (LoginPageSteps.java:124) - ####### CLosing browser #########
+2023-06-28 13:07:08,820 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-06-28 13:07:13,010 +0530 [main] INFO  (LoginPageSteps.java:75) - ####### Opening URL #########
+2023-06-28 13:07:15,998 +0530 [main] INFO  (LoginPageSteps.java:84) - ####### Entering eamil and password #########
+2023-06-28 13:07:16,495 +0530 [main] INFO  (LoginPageSteps.java:95) - ####### Clicking on login button #########
+2023-06-28 13:07:18,364 +0530 [main] INFO  (LoginPageSteps.java:104) - ####### title should be #########
+2023-07-01 11:55:20,534 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-01 11:55:25,769 +0530 [main] INFO  (LoginPageSteps.java:75) - ####### Opening URL #########
+2023-07-01 11:55:27,414 +0530 [main] INFO  (LoginPageSteps.java:84) - ####### Entering eamil and password #########
+2023-07-01 11:55:27,806 +0530 [main] INFO  (LoginPageSteps.java:95) - ####### Clicking on login button #########
+2023-07-01 11:55:31,223 +0530 [main] INFO  (LoginPageSteps.java:138) - ####### view dashboard #########
+2023-07-01 11:55:31,259 +0530 [main] INFO  (LoginPageSteps.java:146) - ####### Clicking on customer menu #########
+2023-07-01 11:55:41,482 +0530 [main] INFO  (LoginPageSteps.java:153) - ####### clicking on cucstomer menu item #########
+2023-07-01 11:55:44,894 +0530 [main] INFO  (LoginPageSteps.java:160) - ####### Clicking on add new btn #########
+2023-07-01 11:55:46,678 +0530 [main] INFO  (LoginPageSteps.java:167) - ####### view add new customer page #########
+2023-07-01 11:55:51,716 +0530 [main] INFO  (LoginPageSteps.java:173) - ####### entering information  #########
+2023-07-01 11:55:53,302 +0530 [main] INFO  (LoginPageSteps.java:194) - ####### Clicking on save #########
+2023-07-01 11:55:55,256 +0530 [main] INFO  (LoginPageSteps.java:201) - ####### message will display - #########
+2023-07-01 11:55:55,509 +0530 [main] INFO  (LoginPageSteps.java:203) - ####### - The new customer has been added successfully #########
+2023-07-01 11:55:55,512 +0530 [main] INFO  (LoginPageSteps.java:124) - ####### CLosing browser #########
+2023-07-01 11:55:55,734 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-01 11:55:59,488 +0530 [main] INFO  (LoginPageSteps.java:75) - ####### Opening URL #########
+2023-07-01 11:56:01,074 +0530 [main] INFO  (LoginPageSteps.java:84) - ####### Entering eamil and password #########
+2023-07-01 11:56:01,477 +0530 [main] INFO  (LoginPageSteps.java:95) - ####### Clicking on login button #########
+2023-07-01 11:56:04,508 +0530 [main] INFO  (LoginPageSteps.java:104) - ####### title should be #########
+2023-07-01 11:56:04,567 +0530 [main] INFO  (LoginPageSteps.java:113) - ####### clicking on logout btn #########
+2023-07-01 11:56:06,450 +0530 [main] INFO  (LoginPageSteps.java:104) - ####### title should be #########
+2023-07-01 11:56:06,462 +0530 [main] INFO  (LoginPageSteps.java:124) - ####### CLosing browser #########
+2023-07-01 11:57:47,312 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-01 11:57:52,131 +0530 [main] INFO  (LoginPageSteps.java:75) - ####### Opening URL #########
+2023-07-01 11:57:53,877 +0530 [main] INFO  (LoginPageSteps.java:84) - ####### Entering eamil and password #########
+2023-07-01 11:57:54,255 +0530 [main] INFO  (LoginPageSteps.java:95) - ####### Clicking on login button #########
+2023-07-01 11:57:59,504 +0530 [main] INFO  (LoginPageSteps.java:138) - ####### view dashboard #########
+2023-07-01 11:57:59,541 +0530 [main] INFO  (LoginPageSteps.java:146) - ####### Clicking on customer menu #########
+2023-07-01 11:58:09,670 +0530 [main] INFO  (LoginPageSteps.java:153) - ####### clicking on cucstomer menu item #########
+2023-07-01 11:58:13,972 +0530 [main] INFO  (LoginPageSteps.java:160) - ####### Clicking on add new btn #########
+2023-07-01 11:58:17,024 +0530 [main] INFO  (LoginPageSteps.java:167) - ####### view add new customer page #########
+2023-07-01 11:58:22,054 +0530 [main] INFO  (LoginPageSteps.java:173) - ####### entering information  #########
+2023-07-01 11:58:23,671 +0530 [main] INFO  (LoginPageSteps.java:194) - ####### Clicking on save #########
+2023-07-01 11:58:27,680 +0530 [main] INFO  (LoginPageSteps.java:201) - ####### message will display - #########
+2023-07-01 11:58:27,886 +0530 [main] INFO  (LoginPageSteps.java:203) - ####### - The new customer has been added successfully #########
+2023-07-01 11:58:27,886 +0530 [main] INFO  (LoginPageSteps.java:124) - ####### CLosing browser #########
+2023-07-01 11:58:28,039 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-01 11:58:31,619 +0530 [main] INFO  (LoginPageSteps.java:75) - ####### Opening URL #########
+2023-07-01 11:58:33,529 +0530 [main] INFO  (LoginPageSteps.java:84) - ####### Entering eamil and password #########
+2023-07-01 11:58:33,917 +0530 [main] INFO  (LoginPageSteps.java:95) - ####### Clicking on login button #########
+2023-07-01 11:58:38,489 +0530 [main] INFO  (LoginPageSteps.java:138) - ####### view dashboard #########
+2023-07-01 11:58:38,504 +0530 [main] INFO  (LoginPageSteps.java:146) - ####### Clicking on customer menu #########
+2023-07-01 11:58:48,705 +0530 [main] INFO  (LoginPageSteps.java:153) - ####### clicking on cucstomer menu item #########
+2023-07-01 11:58:56,493 +0530 [main] INFO  (LoginPageSteps.java:124) - ####### CLosing browser #########
+2023-07-01 11:58:56,681 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-01 11:59:00,240 +0530 [main] INFO  (LoginPageSteps.java:75) - ####### Opening URL #########
+2023-07-01 11:59:02,038 +0530 [main] INFO  (LoginPageSteps.java:84) - ####### Entering eamil and password #########
+2023-07-01 11:59:02,449 +0530 [main] INFO  (LoginPageSteps.java:95) - ####### Clicking on login button #########
+2023-07-01 11:59:08,245 +0530 [main] INFO  (LoginPageSteps.java:138) - ####### view dashboard #########
+2023-07-01 11:59:08,263 +0530 [main] INFO  (LoginPageSteps.java:146) - ####### Clicking on customer menu #########
+2023-07-01 11:59:18,499 +0530 [main] INFO  (LoginPageSteps.java:153) - ####### clicking on cucstomer menu item #########
+2023-07-01 11:59:27,930 +0530 [main] INFO  (LoginPageSteps.java:124) - ####### CLosing browser #########
+2023-07-01 11:59:28,214 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-01 11:59:31,758 +0530 [main] INFO  (LoginPageSteps.java:75) - ####### Opening URL #########
+2023-07-01 11:59:33,571 +0530 [main] INFO  (LoginPageSteps.java:84) - ####### Entering eamil and password #########
+2023-07-01 11:59:34,069 +0530 [main] INFO  (LoginPageSteps.java:95) - ####### Clicking on login button #########
+2023-07-01 11:59:40,245 +0530 [main] INFO  (LoginPageSteps.java:104) - ####### title should be #########
+2023-07-01 11:59:40,261 +0530 [main] INFO  (LoginPageSteps.java:113) - ####### clicking on logout btn #########
+2023-07-01 11:59:42,257 +0530 [main] INFO  (LoginPageSteps.java:104) - ####### title should be #########
+2023-07-01 11:59:42,265 +0530 [main] INFO  (LoginPageSteps.java:124) - ####### CLosing browser #########
+2023-07-01 11:59:42,457 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-01 11:59:46,967 +0530 [main] INFO  (LoginPageSteps.java:75) - ####### Opening URL #########
+2023-07-01 11:59:48,854 +0530 [main] INFO  (LoginPageSteps.java:84) - ####### Entering eamil and password #########
+2023-07-01 11:59:49,216 +0530 [main] INFO  (LoginPageSteps.java:95) - ####### Clicking on login button #########
+2023-07-01 11:59:51,278 +0530 [main] INFO  (LoginPageSteps.java:104) - ####### title should be #########
+2023-07-01 11:59:51,323 +0530 [main] INFO  (LoginPageSteps.java:113) - ####### clicking on logout btn #########
+2023-07-01 11:59:53,223 +0530 [main] INFO  (LoginPageSteps.java:104) - ####### title should be #########
+2023-07-01 11:59:53,236 +0530 [main] INFO  (LoginPageSteps.java:124) - ####### CLosing browser #########
+2023-07-01 11:59:53,518 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-01 11:59:57,188 +0530 [main] INFO  (LoginPageSteps.java:75) - ####### Opening URL #########
+2023-07-01 11:59:59,550 +0530 [main] INFO  (LoginPageSteps.java:84) - ####### Entering eamil and password #########
+2023-07-01 11:59:59,982 +0530 [main] INFO  (LoginPageSteps.java:95) - ####### Clicking on login button #########
+2023-07-01 12:00:01,293 +0530 [main] INFO  (LoginPageSteps.java:104) - ####### title should be #########
+2023-07-01 14:15:13,931 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-01 14:15:20,235 +0530 [main] INFO  (LoginPageSteps.java:75) - ####### Opening URL #########
+2023-07-01 14:15:21,889 +0530 [main] INFO  (LoginPageSteps.java:84) - ####### Entering eamil and password #########
+2023-07-01 14:15:22,247 +0530 [main] INFO  (LoginPageSteps.java:95) - ####### Clicking on login button #########
+2023-07-01 14:15:26,641 +0530 [main] INFO  (LoginPageSteps.java:138) - ####### view dashboard #########
+2023-07-01 14:15:26,664 +0530 [main] INFO  (LoginPageSteps.java:146) - ####### Clicking on customer menu #########
+2023-07-01 14:15:36,797 +0530 [main] INFO  (LoginPageSteps.java:153) - ####### clicking on cucstomer menu item #########
+2023-07-01 14:15:39,481 +0530 [main] INFO  (LoginPageSteps.java:160) - ####### Clicking on add new btn #########
+2023-07-01 14:15:40,701 +0530 [main] INFO  (LoginPageSteps.java:167) - ####### view add new customer page #########
+2023-07-01 14:15:45,713 +0530 [main] INFO  (LoginPageSteps.java:173) - ####### entering information  #########
+2023-07-01 14:15:46,850 +0530 [main] INFO  (LoginPageSteps.java:194) - ####### Clicking on save #########
+2023-07-01 14:15:48,222 +0530 [main] INFO  (LoginPageSteps.java:201) - ####### message will display - #########
+2023-07-01 14:15:48,344 +0530 [main] INFO  (LoginPageSteps.java:203) - ####### - The new customer has been added successfully #########
+2023-07-01 14:15:48,349 +0530 [main] INFO  (LoginPageSteps.java:124) - ####### CLosing browser #########
+2023-07-01 14:15:48,691 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-01 14:15:52,247 +0530 [main] INFO  (LoginPageSteps.java:75) - ####### Opening URL #########
+2023-07-01 14:15:53,834 +0530 [main] INFO  (LoginPageSteps.java:84) - ####### Entering eamil and password #########
+2023-07-01 14:15:54,183 +0530 [main] INFO  (LoginPageSteps.java:95) - ####### Clicking on login button #########
+2023-07-01 14:15:57,100 +0530 [main] INFO  (LoginPageSteps.java:138) - ####### view dashboard #########
+2023-07-01 14:15:57,109 +0530 [main] INFO  (LoginPageSteps.java:146) - ####### Clicking on customer menu #########
+2023-07-01 14:16:07,205 +0530 [main] INFO  (LoginPageSteps.java:153) - ####### clicking on cucstomer menu item #########
+2023-07-01 14:16:15,407 +0530 [main] INFO  (LoginPageSteps.java:124) - ####### CLosing browser #########
+2023-07-01 14:16:15,561 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-01 14:16:18,968 +0530 [main] INFO  (LoginPageSteps.java:75) - ####### Opening URL #########
+2023-07-01 14:16:20,708 +0530 [main] INFO  (LoginPageSteps.java:84) - ####### Entering eamil and password #########
+2023-07-01 14:16:21,076 +0530 [main] INFO  (LoginPageSteps.java:95) - ####### Clicking on login button #########
+2023-07-01 14:16:25,297 +0530 [main] INFO  (LoginPageSteps.java:138) - ####### view dashboard #########
+2023-07-01 14:16:25,305 +0530 [main] INFO  (LoginPageSteps.java:146) - ####### Clicking on customer menu #########
+2023-07-01 14:16:35,453 +0530 [main] INFO  (LoginPageSteps.java:153) - ####### clicking on cucstomer menu item #########
+2023-07-01 14:16:42,589 +0530 [main] INFO  (LoginPageSteps.java:124) - ####### CLosing browser #########
+2023-07-01 14:16:42,765 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-01 14:16:46,661 +0530 [main] INFO  (LoginPageSteps.java:75) - ####### Opening URL #########
+2023-07-01 14:16:47,613 +0530 [main] INFO  (LoginPageSteps.java:84) - ####### Entering eamil and password #########
+2023-07-01 14:16:48,026 +0530 [main] INFO  (LoginPageSteps.java:95) - ####### Clicking on login button #########
+2023-07-01 14:16:50,171 +0530 [main] INFO  (LoginPageSteps.java:104) - ####### title should be #########
+2023-07-01 14:16:50,178 +0530 [main] INFO  (LoginPageSteps.java:113) - ####### clicking on logout btn #########
+2023-07-01 14:16:51,639 +0530 [main] INFO  (LoginPageSteps.java:104) - ####### title should be #########
+2023-07-01 14:16:51,651 +0530 [main] INFO  (LoginPageSteps.java:124) - ####### CLosing browser #########
+2023-07-01 14:16:51,799 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-01 14:16:55,138 +0530 [main] INFO  (LoginPageSteps.java:75) - ####### Opening URL #########
+2023-07-01 14:16:56,946 +0530 [main] INFO  (LoginPageSteps.java:84) - ####### Entering eamil and password #########
+2023-07-01 14:16:57,346 +0530 [main] INFO  (LoginPageSteps.java:95) - ####### Clicking on login button #########
+2023-07-01 14:17:00,274 +0530 [main] INFO  (LoginPageSteps.java:104) - ####### title should be #########
+2023-07-01 14:17:00,281 +0530 [main] INFO  (LoginPageSteps.java:113) - ####### clicking on logout btn #########
+2023-07-01 14:17:01,811 +0530 [main] INFO  (LoginPageSteps.java:104) - ####### title should be #########
+2023-07-01 14:17:01,816 +0530 [main] INFO  (LoginPageSteps.java:124) - ####### CLosing browser #########
+2023-07-01 14:17:01,962 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-01 14:17:05,341 +0530 [main] INFO  (LoginPageSteps.java:75) - ####### Opening URL #########
+2023-07-01 14:17:06,846 +0530 [main] INFO  (LoginPageSteps.java:84) - ####### Entering eamil and password #########
+2023-07-01 14:17:07,352 +0530 [main] INFO  (LoginPageSteps.java:95) - ####### Clicking on login button #########
+2023-07-01 14:17:08,577 +0530 [main] INFO  (LoginPageSteps.java:104) - ####### title should be #########
+2023-07-02 11:52:31,557 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 11:52:35,387 +0530 [main] INFO  (LoginPageSteps.java:75) - ####### Opening URL #########
+2023-07-02 11:52:37,339 +0530 [main] INFO  (LoginPageSteps.java:84) - ####### Entering eamil and password #########
+2023-07-02 11:52:37,700 +0530 [main] INFO  (LoginPageSteps.java:95) - ####### Clicking on login button #########
+2023-07-02 11:52:40,401 +0530 [main] INFO  (LoginPageSteps.java:138) - ####### view dashboard #########
+2023-07-02 11:52:40,438 +0530 [main] INFO  (LoginPageSteps.java:146) - ####### Clicking on customer menu #########
+2023-07-02 11:52:50,606 +0530 [main] INFO  (LoginPageSteps.java:153) - ####### clicking on cucstomer menu item #########
+2023-07-02 11:52:53,668 +0530 [main] INFO  (LoginPageSteps.java:160) - ####### Clicking on add new btn #########
+2023-07-02 11:52:55,953 +0530 [main] INFO  (LoginPageSteps.java:167) - ####### view add new customer page #########
+2023-07-02 11:53:00,980 +0530 [main] INFO  (LoginPageSteps.java:173) - ####### entering information  #########
+2023-07-02 11:53:04,106 +0530 [main] INFO  (LoginPageSteps.java:194) - ####### Clicking on save #########
+2023-07-02 11:53:06,687 +0530 [main] INFO  (LoginPageSteps.java:201) - ####### message will display - #########
+2023-07-02 11:53:06,907 +0530 [main] INFO  (LoginPageSteps.java:203) - ####### - The new customer has been added successfully #########
+2023-07-02 11:53:06,912 +0530 [main] INFO  (LoginPageSteps.java:124) - ####### CLosing browser #########
+2023-07-02 11:53:07,179 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 11:53:11,184 +0530 [main] INFO  (LoginPageSteps.java:75) - ####### Opening URL #########
+2023-07-02 11:53:13,458 +0530 [main] INFO  (LoginPageSteps.java:84) - ####### Entering eamil and password #########
+2023-07-02 11:53:13,851 +0530 [main] INFO  (LoginPageSteps.java:95) - ####### Clicking on login button #########
+2023-07-02 11:53:16,834 +0530 [main] INFO  (LoginPageSteps.java:138) - ####### view dashboard #########
+2023-07-02 11:53:16,872 +0530 [main] INFO  (LoginPageSteps.java:146) - ####### Clicking on customer menu #########
+2023-07-02 11:53:17,348 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 11:53:24,573 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 11:53:26,993 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 11:53:27,233 +0530 [main] INFO  (LoginPageSteps.java:153) - ####### clicking on cucstomer menu item #########
+2023-07-02 11:53:29,137 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 11:53:31,236 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 11:53:33,548 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 11:53:37,803 +0530 [main] INFO  (LoginPageSteps.java:124) - ####### CLosing browser #########
+2023-07-02 11:53:38,436 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 11:53:42,703 +0530 [main] INFO  (LoginPageSteps.java:75) - ####### Opening URL #########
+2023-07-02 11:53:44,722 +0530 [main] INFO  (LoginPageSteps.java:84) - ####### Entering eamil and password #########
+2023-07-02 11:53:45,124 +0530 [main] INFO  (LoginPageSteps.java:95) - ####### Clicking on login button #########
+2023-07-02 11:53:48,330 +0530 [main] INFO  (LoginPageSteps.java:138) - ####### view dashboard #########
+2023-07-02 11:53:48,346 +0530 [main] INFO  (LoginPageSteps.java:146) - ####### Clicking on customer menu #########
+2023-07-02 11:53:58,469 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 11:54:01,787 +0530 [main] INFO  (LoginPageSteps.java:75) - ####### Opening URL #########
+2023-07-02 11:54:03,573 +0530 [main] INFO  (LoginPageSteps.java:84) - ####### Entering eamil and password #########
+2023-07-02 11:54:03,965 +0530 [main] INFO  (LoginPageSteps.java:95) - ####### Clicking on login button #########
+2023-07-02 11:54:06,710 +0530 [main] INFO  (LoginPageSteps.java:104) - ####### title should be #########
+2023-07-02 11:54:06,735 +0530 [main] INFO  (LoginPageSteps.java:113) - ####### clicking on logout btn #########
+2023-07-02 11:54:08,940 +0530 [main] INFO  (LoginPageSteps.java:104) - ####### title should be #########
+2023-07-02 11:54:08,947 +0530 [main] INFO  (LoginPageSteps.java:124) - ####### CLosing browser #########
+2023-07-02 11:54:09,105 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 11:54:13,148 +0530 [main] INFO  (LoginPageSteps.java:75) - ####### Opening URL #########
+2023-07-02 11:54:15,369 +0530 [main] INFO  (LoginPageSteps.java:84) - ####### Entering eamil and password #########
+2023-07-02 11:54:16,490 +0530 [main] INFO  (LoginPageSteps.java:95) - ####### Clicking on login button #########
+2023-07-02 11:54:21,251 +0530 [main] INFO  (LoginPageSteps.java:104) - ####### title should be #########
+2023-07-02 11:54:21,266 +0530 [main] INFO  (LoginPageSteps.java:113) - ####### clicking on logout btn #########
+2023-07-02 11:54:23,006 +0530 [main] INFO  (LoginPageSteps.java:104) - ####### title should be #########
+2023-07-02 11:54:23,019 +0530 [main] INFO  (LoginPageSteps.java:124) - ####### CLosing browser #########
+2023-07-02 11:54:23,199 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 11:54:26,532 +0530 [main] INFO  (LoginPageSteps.java:75) - ####### Opening URL #########
+2023-07-02 11:54:28,378 +0530 [main] INFO  (LoginPageSteps.java:84) - ####### Entering eamil and password #########
+2023-07-02 11:54:28,917 +0530 [main] INFO  (LoginPageSteps.java:95) - ####### Clicking on login button #########
+2023-07-02 11:54:29,499 +0530 [main] INFO  (LoginPageSteps.java:104) - ####### title should be #########
+2023-07-02 11:55:08,916 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 11:55:10,095 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 11:55:12,348 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 11:55:14,502 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 11:55:16,641 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 11:55:18,816 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 11:57:49,868 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 11:57:51,055 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 11:57:53,208 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 11:57:55,402 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 11:57:57,569 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 11:57:59,746 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 11:58:44,209 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 11:58:44,960 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 11:58:45,336 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 11:58:45,686 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 11:58:46,024 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 11:58:46,308 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 11:59:07,595 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 11:59:38,076 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 11:59:38,361 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 11:59:38,715 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 11:59:39,070 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 11:59:39,432 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 12:00:05,841 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 12:01:40,358 +0530 [main] INFO  (LoginPageSteps.java:75) - ####### Opening URL #########
+2023-07-02 12:01:45,474 +0530 [main] INFO  (LoginPageSteps.java:84) - ####### Entering eamil and password #########
+2023-07-02 12:01:45,933 +0530 [main] INFO  (LoginPageSteps.java:95) - ####### Clicking on login button #########
+2023-07-02 12:02:00,640 +0530 [main] INFO  (LoginPageSteps.java:138) - ####### view dashboard #########
+2023-07-02 12:02:00,695 +0530 [main] INFO  (LoginPageSteps.java:146) - ####### Clicking on customer menu #########
+2023-07-02 12:02:10,951 +0530 [main] INFO  (LoginPageSteps.java:153) - ####### clicking on cucstomer menu item #########
+2023-07-02 12:02:26,199 +0530 [main] INFO  (LoginPageSteps.java:160) - ####### Clicking on add new btn #########
+2023-07-02 12:02:38,769 +0530 [main] INFO  (LoginPageSteps.java:167) - ####### view add new customer page #########
+2023-07-02 12:02:43,808 +0530 [main] INFO  (LoginPageSteps.java:173) - ####### entering information  #########
+2023-07-02 12:02:45,628 +0530 [main] INFO  (LoginPageSteps.java:194) - ####### Clicking on save #########
+2023-07-02 12:02:51,773 +0530 [main] INFO  (LoginPageSteps.java:201) - ####### message will display - #########
+2023-07-02 12:02:51,924 +0530 [main] INFO  (LoginPageSteps.java:203) - ####### - The new customer has been added successfully #########
+2023-07-02 12:02:51,924 +0530 [main] INFO  (LoginPageSteps.java:124) - ####### CLosing browser #########
+2023-07-02 12:02:52,138 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 12:02:55,703 +0530 [main] INFO  (LoginPageSteps.java:75) - ####### Opening URL #########
+2023-07-02 12:03:00,598 +0530 [main] INFO  (LoginPageSteps.java:84) - ####### Entering eamil and password #########
+2023-07-02 12:03:01,062 +0530 [main] INFO  (LoginPageSteps.java:95) - ####### Clicking on login button #########
+2023-07-02 12:03:16,007 +0530 [main] INFO  (LoginPageSteps.java:138) - ####### view dashboard #########
+2023-07-02 12:03:16,045 +0530 [main] INFO  (LoginPageSteps.java:146) - ####### Clicking on customer menu #########
+2023-07-02 12:03:26,291 +0530 [main] INFO  (LoginPageSteps.java:153) - ####### clicking on cucstomer menu item #########
+2023-07-02 12:03:48,573 +0530 [main] INFO  (LoginPageSteps.java:124) - ####### CLosing browser #########
+2023-07-02 12:03:48,730 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 12:03:52,153 +0530 [main] INFO  (LoginPageSteps.java:75) - ####### Opening URL #########
+2023-07-02 12:04:00,070 +0530 [main] INFO  (LoginPageSteps.java:84) - ####### Entering eamil and password #########
+2023-07-02 12:04:00,479 +0530 [main] INFO  (LoginPageSteps.java:95) - ####### Clicking on login button #########
+2023-07-02 12:04:11,056 +0530 [main] INFO  (LoginPageSteps.java:138) - ####### view dashboard #########
+2023-07-02 12:04:11,077 +0530 [main] INFO  (LoginPageSteps.java:146) - ####### Clicking on customer menu #########
+2023-07-02 12:04:21,339 +0530 [main] INFO  (LoginPageSteps.java:153) - ####### clicking on cucstomer menu item #########
+2023-07-02 12:04:35,172 +0530 [main] INFO  (LoginPageSteps.java:124) - ####### CLosing browser #########
+2023-07-02 12:04:35,329 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 12:04:38,716 +0530 [main] INFO  (LoginPageSteps.java:75) - ####### Opening URL #########
+2023-07-02 12:04:45,379 +0530 [main] INFO  (LoginPageSteps.java:84) - ####### Entering eamil and password #########
+2023-07-02 12:04:45,797 +0530 [main] INFO  (LoginPageSteps.java:95) - ####### Clicking on login button #########
+2023-07-02 12:04:59,251 +0530 [main] INFO  (LoginPageSteps.java:104) - ####### title should be #########
+2023-07-02 12:04:59,266 +0530 [main] INFO  (LoginPageSteps.java:113) - ####### clicking on logout btn #########
+2023-07-02 12:05:01,517 +0530 [main] INFO  (LoginPageSteps.java:104) - ####### title should be #########
+2023-07-02 12:05:01,527 +0530 [main] INFO  (LoginPageSteps.java:124) - ####### CLosing browser #########
+2023-07-02 12:05:01,656 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 12:05:05,036 +0530 [main] INFO  (LoginPageSteps.java:75) - ####### Opening URL #########
+2023-07-02 12:05:12,994 +0530 [main] INFO  (LoginPageSteps.java:84) - ####### Entering eamil and password #########
+2023-07-02 12:05:13,468 +0530 [main] INFO  (LoginPageSteps.java:95) - ####### Clicking on login button #########
+2023-07-02 12:05:25,432 +0530 [main] INFO  (LoginPageSteps.java:104) - ####### title should be #########
+2023-07-02 12:05:25,465 +0530 [main] INFO  (LoginPageSteps.java:113) - ####### clicking on logout btn #########
+2023-07-02 12:05:27,680 +0530 [main] INFO  (LoginPageSteps.java:104) - ####### title should be #########
+2023-07-02 12:05:27,688 +0530 [main] INFO  (LoginPageSteps.java:124) - ####### CLosing browser #########
+2023-07-02 12:05:27,831 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 12:05:31,114 +0530 [main] INFO  (LoginPageSteps.java:75) - ####### Opening URL #########
+2023-07-02 12:05:35,559 +0530 [main] INFO  (LoginPageSteps.java:84) - ####### Entering eamil and password #########
+2023-07-02 12:05:35,944 +0530 [main] INFO  (LoginPageSteps.java:95) - ####### Clicking on login button #########
+2023-07-02 12:05:38,750 +0530 [main] INFO  (LoginPageSteps.java:104) - ####### title should be #########
+2023-07-02 12:06:36,085 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 12:06:37,149 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 12:06:39,016 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 12:06:41,155 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 12:06:43,319 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 12:06:45,467 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 12:21:06,781 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 12:21:07,923 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 12:21:10,998 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 12:21:13,194 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 12:21:15,341 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 12:21:17,486 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 12:21:33,939 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 12:21:35,174 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 12:21:37,362 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 12:21:39,492 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 12:21:41,627 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 12:21:43,743 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 12:58:49,219 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 12:58:51,001 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 12:58:53,213 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 12:58:55,376 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 12:58:57,508 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 12:58:59,692 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 12:59:17,722 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 12:59:18,759 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 12:59:20,941 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 12:59:23,185 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 12:59:25,728 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
+2023-07-02 12:59:27,916 +0530 [main] INFO  (LoginPageSteps.java:41) - ####### Launching Browser #########
